@@ -1,4 +1,3 @@
-Excited to share my Power BI dashboard! 
 This visual captures electronic sales trends, revenue distribution, and more. Certainly! Let’s dive into the analysis of this electronic sales dashboard.
 
 Electronic Sales Dashboard: Key Insights
