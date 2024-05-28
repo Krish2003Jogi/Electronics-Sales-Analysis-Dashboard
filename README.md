@@ -26,5 +26,5 @@ In this Dashboard I have used different kind of Visualization tools/charts.
 · Matrix
 · Ribbon Chart
 
-
+link of the dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjU2MGFhOGItY2NiMC00ZGJmLTliZjktMjBkNmY1MjA5MmIzIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
